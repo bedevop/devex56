@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+.idea
+
 # Distribution / packaging
 .Python
 build/
@@ -112,3 +114,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+devex0605/.idea/devex0605.iml
